@@ -1,2 +1,3 @@
-# CV_ImageClassification
-Classifying Buildings post Hurricane using Satellite Imagery
+# Classifying Buildings post Hurricane using Satellite Imagery
+
+
